@@ -1,0 +1,12 @@
+
+# Ignore git directory.
+/.git/
+/.gitignore
+/.github
+
+/__pycache__
+
+/demo_libtorch.py
+/demo_onnx.py
+/demo1.py
+/demo2.py
